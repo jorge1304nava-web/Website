@@ -7,8 +7,8 @@ I assist a company in Vienna to start a new service there. The website has a res
 
 # Desktop User Interface
 
-<img width="1014" height="692" alt="image" src="https://github.com/user-attachments/assets/a4560400-6b47-4bcc-877a-45705d006d80" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a4560400-6b47-4bcc-877a-45705d006d80" />
 
 # Smartphone User Interface
 
-<img width="838" height="1280" alt="image" src="https://github.com/user-attachments/assets/ad0d39f7-2689-4a48-b7a4-292191444ea9" />
+<img width="135" height="430" alt="image" src="https://github.com/user-attachments/assets/ad0d39f7-2689-4a48-b7a4-292191444ea9" />
