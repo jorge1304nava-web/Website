@@ -12,6 +12,9 @@ Domain: navia-society.com
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a4560400-6b47-4bcc-877a-45705d006d80" />
 
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/68d08403-0bfc-457b-9463-8da6a5cfd60e" />
+
+
 # Smartphone User Interface
 
 <img width="240" height="430" alt="image" src="https://github.com/user-attachments/assets/ad0d39f7-2689-4a48-b7a4-292191444ea9" />
