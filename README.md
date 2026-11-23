@@ -11,9 +11,9 @@ I assist a company in Vienna to start a new service there. The website has a res
 
 # Smartphone User Interface
 
-<img width="220" height="430" alt="image" src="https://github.com/user-attachments/assets/ad0d39f7-2689-4a48-b7a4-292191444ea9" />
+<img width="240" height="430" alt="image" src="https://github.com/user-attachments/assets/ad0d39f7-2689-4a48-b7a4-292191444ea9" />
 
-<img width="220" height="430" alt="image" src="https://github.com/user-attachments/assets/639d0441-f306-4755-a839-0a2b7724aaa4" />
+<img width="240" height="430" alt="image" src="https://github.com/user-attachments/assets/639d0441-f306-4755-a839-0a2b7724aaa4" />
 
 <img width="240" height="430" alt="image" src="https://github.com/user-attachments/assets/c23aa1c1-16fe-4105-9417-41a672d678e2" />
 
